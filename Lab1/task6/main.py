@@ -1,0 +1,5 @@
+user_string = str(input("Введите строку из чисел "))
+string_list = user_string.split(",")
+string_tuple = tuple(string_list)
+print(f"Список: {string_list}")
+print(f"Кортеж: {string_tuple}")
