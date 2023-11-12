@@ -1,0 +1,5 @@
+Company_X ООО 25000 8000
+TechGenius ЗАО 18000 19000
+InnoSolutions ИП 12000 3500
+SuperTech ОАО 30000 9500
+GreenEco ООО 22000 7000
